@@ -1,0 +1,46 @@
+.body {
+  background-color: #edefee;
+  font-family: "Markazi Text", serif;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+h1 {
+  font-size: 3rem;
+}
+h1 {
+  font-size: 2rem;
+}
+header > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+}
+nav ul {
+  padding-top: 2%;
+  list-style-type: none;
+  text-align: center;
+}
+nav li {
+  display: inline-block;
+}
+section {
+  display: flex;
+}
+article {
+  flex: 1;
+}
+footer div {
+  display: flex;
+}
+footer {
+  flex: 1;
+}
+footer > div > img {
+  display: block;
+  width: 2%;
+  height: auto;
+}
